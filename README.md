@@ -1,4 +1,4 @@
-## 用户管理中心
+用户管理中心
 
 #### by 羽雲: https://github.com/yunhaoyu
 
@@ -28,17 +28,17 @@
 
 ### 项目截图:
 用户登录页面:
-- ![](https://cdn.staticaly.com/gh/yunhaoyu/blogImage@main/img/user-center_01.png)
+- ![](img/user-center_01.png)
 
 用户注册页面:
-- ![](https://cdn.staticaly.com/gh/yunhaoyu/blogImage@main/img/user-center_02.png)
+- ![](img/user-center_02.png)
 
 用户管理页面:
-- ![](https://cdn.staticaly.com/gh/yunhaoyu/blogImage@main/img/user-center_03.png)
+- ![](img/user-center_03.png)
 
 修改用户信息:
-- ![](https://cdn.staticaly.com/gh/yunhaoyu/blogImage@main/img/user-center_04.png)
+- ![](img/user-center_04.png)
 
 管理员添加新用户:
-- ![](https://cdn.staticaly.com/gh/yunhaoyu/blogImage@main/img/user-center_05.png)
+- ![](img/user-center_05.png)
 
